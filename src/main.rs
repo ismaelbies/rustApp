@@ -29,7 +29,7 @@ fn exercice2() {
     let depth = 10;
     let area = area_of(width, height);
 
-    println!("Area is {}", area);
+    println!("Areaa is {}", area);
 
     let volume = volume_of(width, height, depth);
 
